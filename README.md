@@ -2,6 +2,7 @@
 # SALES PREDICTION USING PYTHON
 
 The following important libraries were used for this project:
+
 1.numpy
 2.pandas
 3.matplotlib.pyplot
